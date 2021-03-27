@@ -4,4 +4,4 @@ Este script escrito em R imprime um mapa com dados da expectativa de vida ao nas
 para os anos de 2000 a 2060 (Pesquisa de projeção da população)
 
 Fonte: 	IBGE      
-Link:		https://sidra.ibge.gov.br/Tabela/7362
+Link:		https://sidra.ibge.gov.br/tabela/5938
